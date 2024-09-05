@@ -1,0 +1,861 @@
+Company Names,Job Titles,Posted On,Job Details,Images,Type Location,Locations,Link
+Samsung Electronics,Data Engineer,Posted 30+ days ago,"Position Summary
+1. Provide service reliability by analyzing the required data, conducting data modeling and designing, implementing and operating database architecture for each service.
+2. Enhance service quality by developing and analyzing data to provide impactful services.
+3. Provide service engineering through standardization/automation of technology analysis for each database solution.
+4. Advanced SW Certification (Coding Test)
+Role and Responsibilities
+1. [Data modeling] Guarantee the data integrity by analyzing service requirements and data flow and conduct the logical/physical modeling of the entire structure with optimized performance.
+2. [Data pipelining] Automate and schedule tasks using various tools such as Airflow.
+3. [Data warehouse design and operation] Design, implement, and operate data storages so that analyzable structured/unstructured data are stored.
+4. [Data processing & analysis] Perfom analysis and ETL from various data sources to produce reliable datasets.
+
+5. Have good communication skills in English
+6. Have experience in advanced SQL Query
+7. Knowledge and experience in data modeling, ETL, and data engineering tools such as Python, Airflow
+8. Strong analytical & statistical skills and ability to analyze and interpret complex data
+9. Have good organization & teamwork
+
+Preferable
+10. Have experience in AWS Athena / Google Big Query is a plus
+11. Have experience in Batch processing using Spark / AWS EMR is a plus
+12. Have experience in Real-time processing using Spark Streaming / Flink is a plus
+13. Have experience in cloud is a plus
+Skills and Qualifications
+Develops professional expertise by complying with company policies and procedures
+Works on problems of moderate scope where analyzing situations or data requires a review on various factors
+Exercises judgment within defined procedures and practices to determine appropriate action
+Normally receives general instructions on routine work with detailed instructions on new projects or assignments
+Bachelor or Master Degree in Computer Science, Mathematics, Electrical Engineering and Physics from Reputable Universities.",https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/08f9772288de0157ee1f9a21f4ef38a0,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=b08c592c466ec9c7&bb=CoBYKI5i5FaFGdqffiBWpiG9_cozQPNmsUNzsnaJBq36vOYdhupvnIHNq_VcGi0vp-su7llzd-ruMcmnrHSxM29KM8PsiLS0ASUOLFFtGzBq5g7AzNQatw%3D%3D&xkcb=SoDs67M38fCEQxzfWh0LbzkdCdPP&fccid=da3c7fed78dd1607&vjs=3
+Kredivo Group,Data Engineer & Analytics,Just posted,"As a Data Engineer and Analytic you will be tasked with empowering internal stakeholders to delve deep into the complexities of the data in our warehouse. You will work closely with Product, Engineering, and Data teams to build scalable data pipelines and design data analytics engines that empower deep insights for users. The person in this position will take work seriously, has a strong sense of duty, and is disciplined. The position will generally be task oriented, requiring someone with a conservative, careful, and cautious approach to work.
+About the job:
+Design and develop scalable business data solutions across the entire data supply chain.
+Create and review technical and user-focused documentation for data solutions (data models, data dictionaries, business glossaries, process and data flows, architecture diagrams, etc.).
+Solve for complex data integrations across multiple systems.
+Collaborate with management, business partners, analysts, developers, architects, and engineers to support data quality efforts.
+Expertise (can teach/instruct others): in current data warehousing concepts (using technologies like Redsift, Spark, Hadoop, web services, etc to support business-driven decisioning)
+SQL and database scripting
+With data manipulation scripting languages (like Python or Scala)
+With Data Science toolsets and technology stack
+About you:
+A passionate and curious individual in Data Engineering and Analytics subject areas
+1-3 years of any relevant experiences in Data Engineering, Data Warehouse, Business Intelligence, Analytics
+Good proficiency in writing SQL, either in RDBMS (i.e. MySQL, PostgreSQL, etc) or OLAP (i.e. BigQuery, Redshift, Oracle, etc.)
+Ability to write robust and scalable code in Python or other scripting programming language
+Good knowledge in creating a workable business dashboard.
+Basic proficiency or experience in infrastructure setup using cloud services (i.e. AWS, GCP, Azure).
+Strong passion in data engineering or business intelligence areas, ability to search or create solutions.
+Good communication skills in Bahasa and English. Mostly explaining technical things.
+Good workable attitude, something we could invest time to develop",,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=5ff22e24bbb24b64&bb=CoBYKI5i5FaFGdqffiBWpkdHMd2wmr0DgnOOx5VJoWGUEhar851QZAsqgmmnmMODeY3ZykfdoQqkePVu84I5PdnCTOdap-8CvGEdnmdmPwUkzfd4cOwR1BkgnOe2Z2F-&xkcb=SoBY67M38fCEQxzfWh0KbzkdCdPP&fccid=9b6381bd7b084eeb&vjs=3
+TyrAds,Data Engineer,Posted 9 days ago,"Data Engineer
+Bali, BALI
+Work Type: Full Time
+
+Job Summary:
+We are seeking a skilled Data Engineer to join our team. The ideal candidate will have a strong technical background in designing and developing data pipelines, integrating and managing data systems, and collaborating with various stakeholders to deliver high-quality data solutions. This role is vital to ensuring our data infrastructure is robust, scalable, and optimized to meet the business’s evolving needs.
+
+Location: Bali, Indonesia (in office)
+Key Responsibilities:
+Design and Develop Data Pipelines:
+Create and maintain optimal data pipeline architecture.
+Assemble large, complex data sets that meet functional and non-functional business requirements.
+Data Integration and ETL:
+Build the infrastructure required for the optimal extraction, transformation, and loading (ETL) of data from various data sources.
+Develop processes and tools to monitor and analyze data pipeline performance.
+Database Management:
+Work with data and analytics experts to strive for greater functionality in our data systems.
+Implement, maintain, and optimize database solutions, including both SQL and NoSQL databases.
+Collaboration and Communication:
+Collaborate with data scientists, business analysts, and other stakeholders to understand data needs and provide technical solutions.
+Communicate project progress, issues, and solutions effectively to the team and management.
+Data Quality and Governance:
+Ensure data quality and data governance standards are maintained.
+Implement data security measures and compliance policies.
+Qualifications:
+Education and Experience:
+Bachelor’s or Master’s degree in Computer Science, Information Technology, Engineering, or a related field.
+Proven experience as a Data Engineer or in a similar role.
+Technical Skills:
+Proficient in SQL and experienced with relational databases.
+Experience with big data tools such as Hadoop, Spark, or Kafka.
+Knowledge of data pipeline and workflow management tools like Airflow or Luigi.
+Experience with cloud services (AWS, Azure, GCP) and containerization technologies (Docker, Kubernetes).
+Programming Skills:
+Strong programming skills in Python, Java, Scala, or similar languages.
+Soft Skills:
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork abilities.
+Ability to work in a fast-paced, dynamic environment.
+Preferred Qualifications:
+Experience with machine learning and data mining techniques.
+Familiarity with data visualization tools such as Tableau or Power BI.
+Knowledge of data privacy regulations and best practices.
+Why Join Us?
+This is an exciting opportunity to contribute to the development and optimization of our data infrastructure, working with a team of talented professionals in a fast-paced and innovative environment. If you are passionate about data and have the technical skills to match, we encourage you to apply.",,Full-time,Bali,https://id.indeed.com/rc/clk?jk=64c0bd655e3891b4&bb=CoBYKI5i5FaFGdqffiBWplr2uAzG0Ug9EENduhQeNIJGk8dx--ZcG82K86O7jswF_WDayiFnt5VlgPOZS9tA1pJAQ_p7MQ23x_V-QrkSSn3XLpJT4fVcJIFqWol1HbBb&xkcb=SoDF67M38fCEQxzfWh0JbzkdCdPP&fccid=2f30b89778e2ce34&vjs=3
+EY,Data Engineer (Technology Consultant),Posted 2 days ago,"About EY:
+EY, a global leader operating in more than 150 countries delivers unparalleled service in Consulting and assists clients to transform and upskill their capabilities.
+
+We serve our clients to build a better working world, helping them to create long-term value for people and society and build trust in the capital markets. That starts with a culture that believes in giving you the training, opportunities, and creative freedom to make things better. Whenever you join, however long you stay, the exceptional EY experience lasts a lifetime. And with a commitment to hiring and developing the most passionate people, we work towards our ambition to be the best employer.
+
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture, and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The exceptional EY experience. It’s yours to build.
+
+We look forward you to joining us in the Data & Analytics Consultant team:
+
+For Managerial level:
+Years of experience: 6-10 solid years of Data engineering and architecture background
+
+Experience:
+Design the Logical Data Model based on technical specification requirement
+Design ETL logic to transform raw data from source into target table as per the Logical Data Model
+Design big data ingestion, loading, and unloading data into a data lake.
+Automate data quality error resolution and enforce rules
+Prepared test cases and test plan based on the Logical Data Model, Data Mapping and technical specification
+
+Technical skill:
+Proficient in data management, database design, ETL design, optimization and development
+Proficient in BI development and visualization (optional)
+
+Tools:
+Packaged ETL tools, i.e. Talend, HIVE and Hadoop, MapR platform
+Any database and ETL tools
+Cloud architecture
+
+For Senior level:
+Years of experience: 3-5 solid years of Data engineering background
+
+Experience:
+Translate and develop Physical data model design of transactional and master tables
+Data cleansing and data profiling (basic)
+Develop big data ETL jobs, loading, and unloading data into a data lake.
+Implement the delivery of enhancements for an existing Data Warehouse for a new data source system
+ETL Unit testing and data validation
+
+Technical skill:
+Proficient in data management, database design, ETL design, optimization and development
+Proficient in BI development and visualization (optional)
+
+Tools:
+Packaged ETL tools, i.e. Talend, HIVE and Hadoop, MapR platform
+Any database and ETL tools
+Cloud architecture
+
+The opportunity:
+You will help our clients navigate the business and technology transformation vision. We’ll look to you to provide our clients with a unique business and technology perspective on how technology can transform and improve their entire organization – starting with key business issues they face. This is a high-growth, high-visibility area with plenty of opportunities to enhance your skill set and build your career.
+
+Your key responsibilities:
+You’ll spend most of your time working with a wide variety of clients and your colleagues to deliver the latest trends, practices, technologies, and architecture to design, build and maintain scalable and robust solutions that unify, enrich, collaborate and deliver value.
+
+Skills and attributes for success:
+Outstanding team player
+High level of motivation
+Strong work ethic
+Self-starting attitude
+Independent and able to manage and prioritize workload
+Ability to quickly and positively adapt to change
+Excellent written and verbal communication, presentation, client service, and technical writing skills, coupled with excellent executive presence.
+Significant experience in managing and delivering medium to large teams on complex programs and projects.
+Assessing, designing, architecting, and developing solutions leveraging the latest technologies and trends to exceed the business requirements
+Unifying, enriching, and delivering value to derive insights and opportunities
+Leveraging in-house and partners - platforms and solutions as needed and recommending and building new platforms/solutions as required to exceed business requirements
+Communicating findings, recommendations, and opportunities to improve platforms and solutions
+Demonstrating a deep understanding of technology, concepts, tools, features, functions, and benefits of different approaches
+Seeking out information to learn about emerging methodologies and technologies
+Clarifying problems by driving to understand the true issue
+Looking for opportunities for improving methods and outcomes
+Collaborating, influencing, and building consensus through constructive relationships and effective listening
+Solving problems by incorporating data into decision making
+Proven track record of sales and delivery in a consulting context with established client relationships and experience
+
+Ideally, you must have a:
+Bachelor’s Degree or above in Information Systems, Computer Science, Electronics and Communications, or related disciplines.
+Minimum three (3) years of experience (for Senior level) and 5 to 7 years for Manager or Senior Manager level.
+
+What we look for
+We’re interested in passionate individuals with a strong vision and a desire to stay on top of trends. If you have a genuine passion for helping businesses achieve their full potential, then these role(s) are for you.
+
+What we offer
+Continuous learning: You’ll develop the mindset and skills to navigate whatever comes next
+Success as defined by you: We’ll provide the tools and flexibility, so you can make a meaningful impact, on your way
+Transformative leadership: We’ll give you the insights, coaching, and confidence to be the leader the world needs
+Diverse and inclusive culture: You’ll be embraced for who you are and empowered to use your voice to help others find theirs
+
+If you can demonstrate that you meet the criteria above, please contact us as soon as possible.
+
+EY is an equal opportunity, affirmative action employer providing equal employment opportunities to applicants and employees without regard to race, color, religion, age, sex, sexual orientation, gender identity/expression, national origin, protected veteran status, disability status, or any other legally protected basis, including arrest and conviction records, by applicable law.
+
+EY is committed to providing reasonable accommodation to individuals with special needs. If you are a qualified individual with special needs and need assistance applying online or need to request an accommodation during the interview process, please speak to our HR executives, and we will be happy to help you.",,,Jakarta,https://id.indeed.com/rc/clk?jk=31fc4f132f5a7d9d&bb=CoBYKI5i5FaFGdqffiBWpiQ5Bu9fF1njyY0lorNUPxzg6OAAImQUtYZz34RUCK8PmIFwCk448PjVBUuTxylVYyS1lrKWPHdxwPVb8ERdJTUxTCxRwFXOlPxvOVNxfja6&xkcb=SoBx67M38fCEQxzfWh0IbzkdCdPP&fccid=1544766d4c2915b0&vjs=3
+SEVIMA,Data Engineer,Posted 30+ days ago,"08 August 2022
+
+Surabaya
+Qualifications:
+Bachelor’s Degree of Computer Science, Information Technology, Statistics,
+Mathematics, and other related courses
+Understand data analytics, python and SQL
+Passion with data and trends analysis, statistics, program evaluations, forecasting, and
+business insights.
+Self-starter with the ability to work in a fast-paced, performance-driven environment
+Passion for problem-solving, improving and/or implementing processes
+Drop your Resume & Portfolio: bit.ly/SEVIMAapplications",,,Surabaya,https://id.indeed.com/rc/clk?jk=f3ce0139e574f979&bb=CoBYKI5i5FaFGdqffiBWpkpLJOFgz7hdgW-rp5_eQSEvKR43Axnuj8ceOrMkRfdZgjtD0_oyWP8NMKOgzqlY6FiAe-lwRhdcInLcthWwY8t1t3w44mlF-TXSuCty3lv7&xkcb=SoD_67M38fCEQxzfWh0PbzkdCdPP&fccid=1baacf0731b59a94&vjs=3
+Mekari (PT. Mid Solusi Nusantara),Associate Data Engineer,Posted 12 days ago,"Mekari is Indonesia's no. 1 Software-as-a-Service (SaaS) company. Our mission is to empower businesses and professionals to progress effortlessly. Our products (Mekari Talenta, Mekari Jurnal, Mekari KlikPajak, & Mekari Qontak) have been used by tens of thousands of businesses in Indonesia.
+To reach millions, we need more people like you: entrepreneurs, builders, owners inside the company who are eager to grow at scale. Join us to empower more businesses with technology.
+Job Descriptions:
+Oversee the data lake, data warehouse & data pipeline that can adequately handle the needs of a rapidly growing data-driven company.
+Analyze data from a large number and variety of data sources.
+Maintaining the performance of our data analytics platform to ensure accurate, reliable, and timely delivery of key insights for decision making.
+Collaborate with data analysts, data scientists, and business process owners in order to provide them with needed data and infrastructure.
+Requirements/Qualifications:
+A degree or higher in Computer Science, Software Engineering, or other related technical disciplines.
+1+ years of industry experience in software and/or data engineering.
+Have a good understanding of data modeling
+Fluency in programming with Python/Java/Scala and SQL.
+Experienced with data engineering tools such as Spark, Kafka, and Airflow.
+Familiarity with cloud big data environments such as AWS (EMR, Glue, Athena, Redshift) and GCP (BigQuery, Dataflow, Dataproc).
+Proficiency in software engineering best practices such as clean/maintainable code, Git, code review, unit/integration testing, Infrastructure as Code, and Continuous Integration/Continuous Delivery.
+Working Arrangement: Hybrid.
+Office location: Sudirman, Jakarta, Indonesia.
+Our team will review your application and will be in touch if your application is shortlisted to the next stage. If you do not hear from us in 30 days, we will keep your resume on file in case a relevant opportunity opens up.
+Don't forget to check our Recruitment FAQ at bit.ly/RecruitmentFAQ-Mekari [ENG] or bit.ly/RekrutmenMekari-FAQ [INA] to find the answers to commonly-asked questions regarding our recruitment process.
+We wish you the best, and hope to see you around soon!",,,Jakarta,https://id.indeed.com/rc/clk?jk=8822291e6ee50fb6&bb=CoBYKI5i5FaFGdqffiBWpvLr8O3V560sXOrAbC1GnHZ-KgePJ7b0qLOB1v0NzXj-NyIIen2_m-wG6wbqiXPUOgFU-ec5l2qHv7S4J44RyhWJuG7XCHfYter5YDe2VBSz&xkcb=SoBL67M38fCEQxzfWh0ObzkdCdPP&fccid=1ab920afc43e1f08&vjs=3
+PT. Kwadran Lima Mitra Kaya Solusi,Data Engineer,Active 2 days ago,"Role Description
+The Data Engineer will be responsible for tasks such as data engineering, data modeling, ETL (Talend), data warehousing, and data analytics on a day-to-day basis.
+Qualifications
+Education minimum Bachelor (S1) in Computer Science or Information Technology
+Have at least 2 years of experience as a Data Eningeer, experience in delivering using ETL (Talend)
+Data Engineering, Data Modeling, and ETL skills
+Data Warehousing and Data Analytics skills
+Experience in developing and maintaining data pipelines
+Proficiency in SQL and database management systems
+Familiarity with data visualization tools and techniques
+Strong analytical and problem-solving abilities
+Job Type: Full-time",,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=2a019ae68d26ca12&bb=CoBYKI5i5FaFGdqffiBWpmgPEigmNqX8XZwqYKntT55wp2wZZKTZQ6GzHkHxdYQGKiwG6et2oqL-stnnQeG-FkxzZrcfJPt5U8aOBHOiwTNAvsRATJBv8QEaxEvabisA&xkcb=SoDW67M38fCEQxzfWh0NbzkdCdPP&fccid=da60e4b01ff0659e&cmp=PT.-Kwadran-Lima-Mitra-Kaya-Solusi&ti=Data+Engineer&vjs=3
+Lumina,Data Analyst (Intern),Posted 30+ days ago,"Company Description
+
+Lumina (https://lumina.mba) is a community-based recruiting and benefits platform for blue/grey collar workers in Southeast Asia. We start with helping laid-off workers to get jobs as COVID is recovering in Indonesia and getting them engaged in our community to upskill. In just a few months we attracted more than 1 million job seekers, and more than 50 thousand jobs from thousands of companies.
+Lumina's mission is to build technologies for 300 million Indonesians to find jobs and be financially better off. Join our high-performing & ambitious core team, and work directly with the founders!
+
+Job Description
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Build reporting & monitoring dashboards for stakeholders to manage their daily business process
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+
+Qualifications
+Experience using statistical computer languages (SQL, R, Python, etc.) to manipulate data and draw insights from large data sets.
+Strong quantitative, mathematical, and analytical problem solving skills.
+Able to convey data & insights through appropriate visualization techniques.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+Students/fresh graduate majoring in STEM (Science, Technology, Engineering, Mathematics) or Statistics is a plus.
+
+Additional Information
+
+What is like to work at Lumina?
+Lumina is, at heart, a technology company. To achieve our mission, we need strong engineers who can help solve the complex problems we face day-to-day. In building high-engagement consumer products, we must match varying user needs with great technological innovations.
+We work in small, iterative sprints with a focus on experimentation to gain actionable insights and give value to our users. As a young team of engineers, we are keen on learning and improving ourselves together by living the journey of a fast-growing startup.
+We strive to work in a company of warm, high energy, and inclusive people who treat each other exceptionally well. In retrospective sessions, we facilitate and encourage each other to grow in the direction of their personal mission and values. We are committed to build a healthy long-term working relationships where you can reach your full potential.
+Note:
+At Lumina, we’re looking for people with high ownership, growth-mindset, and integrity. We encourage you to apply even if your experience doesn’t precisely match the job description. Our rigorous interview and onboarding process will help in finding what’s stand out and exceptional in yourself.",,Internship,Tangerang,https://id.indeed.com/rc/clk?jk=69f445caf4290c3e&bb=CoBYKI5i5FaFGdqffiBWpkpLJOFgz7hd4ABZcHHVaNJqDlenROpEgIViKV621cDY_WdDmQh_mDkOqBI9NBevJkrRyerKLvUsnPv-UK8n_esv1hEO-r62urgPX7YAnWZC&xkcb=SoBi67M38fCEQxzfWh0MbzkdCdPP&fccid=5ae0a3b8b1a73194&vjs=3
+LittleLives,Data Engineer,Posted 6 days ago,"We are a fast-growing SaaS company in the EduTech space, operating mainly in Singapore, Vietnam, and Malaysia. With almost 2000 schools as customers, our mission is to revolutionize early childhood education through technology and provide innovative solutions to our customers. We are committed to transforming the way education is delivered in the Southeast Asian region and beyond.
+#### What you will be doing:
+Collecting data from different sources, processing it, and storing it in a ready-to-use format in the company’s data warehouse using tools such as AWS Glue, Databricks, Airflow
+Identifying, designing and implementing data pipeline improvements for greater scalability, optimizing data delivery, and automating manual processes. Parquet in S3 for storage, Airbyte for pipeline management
+Improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision making across the organization.
+Engage proactively with business and product teams to gather and comprehend data requirements, ensuring seamless communication and collaboration throughout the data engineering process.
+Develop strategy for long term data platform architecture based on business and engineering needs
+Performs data analysis required to troubleshoot data related issues and assist in the resolution of data issues
+Own company data assets (data models), spark, sparkSQL, and hiveSQL jobs to populate data models
+#### Requirements
+Deep expertise in AWS Glue, Databricks, Airflow
+Experience with Airbyte, Fivetran, Stitch
+Experience with Spark&nbsp;
+Experience with SQL, Nosql, Parquet
+Job Type: Full-time",https://d2q79iu7y748jz.cloudfront.net/s/_logo/4296b095b40cfde27617f7c8fe4aa63b,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=9a6dec7c626505b3&bb=CoBYKI5i5FaFGdqffiBWpqDfAWYBpJoYkwPenZObeFTZQ27w6lMff-VXU1w69-9eBBAzERbMvirO24ePVWEO_Mm8rufBK-OYRGumv6X4adrAF7hXgX0WrG3BzwyLi0Ie&xkcb=SoCL67M38fCEQxzfWh0DbzkdCdPP&fccid=9e7cece80dc7f2e8&cmp=LittleLives&ti=Data+Engineer&vjs=3
+KewMann Pte Ltd,Data Engineers/Data Scientists(big data analytics/AI),Posted 1 day ago,"General Job description:
+Helping business users with big data analytics & AI initiatives
+Developing new products and solutions for both internal and external client facing
+To be developed as the lead for data engineering or data science.
+Specific Job Description:
+Develop mappings and workflows to extract, transform and load data from existing enterprise systems
+Develop mappings and workflows to extract, transform and load data from public websites/data sources and other unstructured data sources such as PDF/Word document
+Perform the entire cycle of machine learning process (EDA, feature engineering & selection, model selection and evaluation, deployment) and get predicted results
+Knowledge on knowledge graph will be advantageous
+Create low-level design documents and testing scripts. Conduct unit testing and peer review of other team members
+Coordinate integration/system test with SIT team and provide support on user acceptance test
+Job requirements:
+Solid experience of ETL technologies will be an added advantage.
+Strong in database SQL and JSON (or XML)
+Good at at least 2 out of these 3 domains: data engineering, data science, and data analysis
+Experience in big data technologies – Hadoop, Hue, Hive, Spark etc
+Experience in data preparation and cleansing process
+Experience in Python in predictive modeling, and resourceful in researching new methods to solve problems.
+Experience in building relevant data visualization / discovery applications
+Knowledge in advanced data technologies like Kafka, H2O, ElasticSearch etc would be an added advantage
+Understanding of graph database/knowledge graph technologies will
+Knowledge of data security best practices
+Implemented or practicing in data governance (data quality, metadata management etc) is advantageous
+Ability to visualize from data acquisition process to end results
+0-5 years of relevant experience
+Job Type: Full-time
+Pay: Rp3,000.00 - Rp8,000.00 per month",,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=85f451776053714f&bb=CoBYKI5i5FaFGdqffiBWpoWjsURYHCIJfGNh7aJmu4dFoe2hwwg2gOOuQvaNTVru2jerLXk_Si3AdaFKGJThaMlyS23FHmiUfV6elNxei4Vm6uVryrL7Zl2Jqjg7JaD6&xkcb=SoA_67M38fCEQxzfWh0CbzkdCdPP&fccid=1ada4eadaa866df6&cmp=KewMann-Sdn.-Bhd.&ti=Data+Scientist&vjs=3
+McDermott,Associate Production Engineer,Posted 30+ days ago,"Company Overview:
+People power our future. That is why advancing a dynamic, inclusive environment, where everyone grows and thrives is critically important to us.
+Our ingenuity fuels daily life. Together, we’ve forged some of the most trusted partnerships across the energy value chain to make what was once just an idea a reality: laying subsea infrastructure thousands of feet below sea level, installing offshore platforms hundreds of miles from shore, and using our expertise to design and build offshore wind infrastructure.
+For more than 100 years, we've been making the impossible possible. Today, we're driving the energy transition with more than 30,000 of the brightest minds across 54 countries.
+Here, what you do matters.
+Job Overview:
+Responsible for the engineering support (as Prod. Engineer in various disciplines) during project assignments/specific tasks. The Production Engineer will be a member of the Engineering Department.
+
+
+Key Tasks and Responsibilities:
+Review and understand Engineering policies and Yard procedures, participate in any improvements where required
+Support Division Engineering for providing input to the bid and historical data from the projects
+Attending/ provide training and provide feedback or improvement as required
+Review Project Documents includes scope of work, project specifications and drawings
+Review bulk (incl. top up) materials procurements process and prepare Material Purchase List
+Review drawing, MTO and requisitions, highlight any shortages to Procurement/Project Team
+Participate during constructability review
+Prepare Work Pack Index and update as necessary
+Approve relevant fabrication drawings and review Work Pack deliverables in accordance with Work Pack Index
+Ensure materials, fabrications and installations are in accordance with the specifications and drawings
+Check the materials on order comply with drawings, specifications and schedule requirements
+Resolve any fabrication issues occurs in fabrication and highlight to the people concerned
+Coordinate with shop/erection floor planning to ensure compliance with the project plan
+Monitor progress of the shop fabrication activities and highlight any concerns raised
+Provide erection progress input and periodic monitor project progress
+Raise Revision Orders to the Yard personnel for any works performed outside original scope of work/change of the scope
+Prepare and monitor punch lists
+Coordinate materials movements within the yard includes drop off management
+Support and adhere of the implementation of safe working practice (incl. participates to BBSM), high quality, productivity and compliance with the code of business conducts
+Coordinating with the Piping Installation Superintendent and Mechanical Completion Team in preparing and clearing any construction punch list items and testing requirements
+Responsible in executing Hydrotesting based on the Test Packages which are already released for testing
+High standard of safe working practice, quality and productivity as well as compliance with the code of business conducts
+
+Essential Qualifications and Education:
+Min. Engineering Bachelor’s Degree
+Min. +3 years of experience in Oil & gas Construction Industry
+#LI-DL1",,Full-time,Batam,https://id.indeed.com/rc/clk?jk=62ffce4b804a27d2&bb=CoBYKI5i5FaFGdqffiBWpnJ_7kmn1ihmJ-jtFp0YZZ3DGIMgW9QRlCQlCuP866c37kF2a_gx-8qzIjizewNp2OOV6vhuN_ApuKnm7397ccULSF9hrMja9xKYwccxYxHz&xkcb=SoCi67M38fCEQxzfWh0BbzkdCdPP&fccid=58d2ae3bd9faa0c5&vjs=3
+FMC Corporation,Improvement Engineer,Posted 7 days ago,"The core focus of the Technical Center Improvement Engineer for Process and Equipment is to drive optimization of current processes, lead new process technology implementation, and lead small capital project development for the facility. The Improvement Engineer will work closely with operations to identify improvement opportunities, evaluate priorities for focused improvements, and provide projects for management of 5-year plan. This individual will be the site champion for implementation and management of PSM. Improve Engineer position is reporting to the Regional Quality and F&P Tech center Manager.
+
+This role will be responsible for providing support on the in the following three areas:
+Asset Utilization and Continuous Improvement
+New Technology and Capital Project Development
+Process Safety Management Champion
+New Product Introduction (NPI)
+
+HOW YOU WILL HELP US SUCCEED
+
+Asset Utilization and Continuous Improvement:
+Support plant Operations through supplemental review of performance data to identify develop long term improvement plans to further optimize various processes.
+Develop necessary trial plans to test optimization ideas, lead testing with the plant, analyze data, and create report of findings.
+Successfully execute Continuous Improvement projects, annually.
+Support in implementation and methods to streamline collection of process data monitoring (for example- new program deployment/training, migrating data to a single source of reference, etc).
+Lead and/or participate in Root Cause Failure Analysis (RCFA) to identify and prioritize areas of improvement for the plant.
+Conduct and/or participate Process Hazard Analysis (PHA) and complete all necessary Management of Change (MOC) requirements for implementation of process or system changes.
+New Technology and Capital Project Development:
+Leverage process knowledge and data to research and provide recommendations for process technology advancements.
+Develops and executes test protocols to determine the viability of a new technology, when needed.
+Manage engineering contractors to develop project scope, schedule, estimate, requests for proposals (RFP), drawings and other project documents.
+Develop necessary FEL and/or other CDP documentation for process technologies that will require capital funding for implementation.
+Implement approved projects in coordination with the plant personnel.
+Ensure all steps of MOC process are completed for new project implementation, including HAZOP, PHA and lessons learned meetings.
+Support the Global Improvement Leader in developing the 5-year capital plan for the facility based on recommended improvement.
+Process Safety Management Champion:
+Serves as the facility champion for the MOC process, ensuring the process is implemented, followed, and completed for all identified changes.
+Support as the local site leads to ensure compliance with changes and improvements to PSM related policies and procedures.
+Drive implementation of the FMC process safety standard and ensure continued compliance.
+Support the Responsible Care and Sustainability initiatives.
+New Product Introduction (NPI)
+Establish regular communication with NPI Eng regarding critical milestones for each project to ensure Technical Transfer Package (TTP) is developed on schedule in support of Capital Deployment Process (CDP) when required.
+REQUIRED EDUCATION:
+BS in Chemical or Mechanical Engineering
+
+WHAT YOU WILL BRING TO US
+
+3 - 5 years’ experience in a chemical environment with process experience.
+Experienced professional with knowledge of the technical field and working knowledge of business processes, technologies, and applications.
+A demonstrated history of bringing a major project in safely, on time and on budget.
+Effective team building skills with an effective operating style.
+General understanding of economic factors affecting the business.
+Strong leadership and problem-solving skills.
+Strategic agility with foresight and the ability to create alternate plans.
+Effective team building skills with an operating style that fosters high expectations, open dialogue, creates a strong sense of team, inspires, and motivates:",,,Semarang,https://id.indeed.com/rc/clk?jk=3620eeaa6a3d1f7a&bb=CoBYKI5i5FaFGdqffiBWphG05jnFEv2c1CTmj-vY7aYPt8VuLqseHfZjI8C1W8_ver8bvCeLI30lwiamCxEADZ1J6RYw-a2HdbInSEUwJkvu_ScWSHXj_g%3D%3D&xkcb=SoAW67M38fCEQxzfWh0AbzkdCdPP&fccid=2e3f36bc3cf64031&vjs=3
+HSBC,Manager Data and Analytics,Posted 6 days ago,"Job Advert Details
+Some careers shine brighter than others.
+If you’re looking for a role that will help you stand out at HSBC, take a look at how you can fulfil your potential.
+Wealth and Personal Banking serves more than 50 million customers worldwide with a complete range of banking and wealth management services to enable them to manage their finances and protect and build their financial futures. It is a global business that brings together management responsibility for Retail Banking, Wealth Management, Insurance and Asset Management with a focus on customer-centric propositions and innovative and efficient distribution channels.
+We are currently seeking an experienced professional to join this team in the role of Associate Manager / Manager Data and Analytics
+Responsibilities:
+This role will be responsible for securely and correctly monitoring, maintaining, and designing WPB databases. A majority of the tasks involves creating and modeling databases, which means this role will spend a significant amount of time collaborating with users to identify the data they need to use, the frequency, what categories they require, and how to smoothen the process for them. After developing the dataset, this role will be responsible for testing it extensively to ensure accuracy. Data troubleshooting, security, backup, integrity and regulatory compliant are critical parts of this job.
+
+Qualifications
+To be successful in this role, you should meet the following requirements:
+Indonesia Citizen only
+Advanced working SAS, SQL knowledge and experience working with relational databases, as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+2+ years of experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Mathematics, Physics, Statistics, Informatics, Information Systems or another quantitative field
+Experience with big data tools.
+Experience with data pipeline and workflow management tools.
+Experience with cloud services
+Experience with stream-processing systems.
+Experience with object-oriented/object function scripting languages: Python, Java, C++, SAS, R programming, etc.
+You’ll achieve more at HSBC
+HSBC is committed to building a culture where all employees are valued, respected and opinions count. We take pride in providing a workplace that fosters continuous professional development, flexible working and opportunities to grow within an inclusive and diverse environment.",,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=ce62302444b82dde&bb=CoBYKI5i5FaFGdqffiBWpvrvyNzm_Gs44kb4WswDHZfPoL_z_kHV787mrKnjgocjGu4VlrG2fjqF0LQaRxKqgIcgPvOc9EAXr4LMtm9iba7oLUnucUSKmA%3D%3D&xkcb=SoCY67M38fCEQxzfWh0HbzkdCdPP&fccid=04c9b139c84ea1b5&vjs=3
+McDermott,Construction Support Engineer,Posted 1 day ago,"Company Overview:
+People power our future. That is why advancing a dynamic, inclusive environment, where everyone grows and thrives is critically important to us.
+Our ingenuity fuels daily life. Together, we’ve forged some of the most trusted partnerships across the energy value chain to make what was once just an idea a reality: laying subsea infrastructure thousands of feet below sea level, installing offshore platforms hundreds of miles from shore, and using our expertise to design and build offshore wind infrastructure.
+For more than 100 years, we've been making the impossible possible. Today, we're driving the energy transition with more than 30,000 of the brightest minds across 54 countries.
+Here, what you do matters.
+Job Overview :
+The Construction Support Engineer applies their conceptual knowledge of Construction Support (Eng) and, with a moderate level of guidance and direction from colleagues and leadership, is responsible for solving a range of straightforward Construction Support (Eng) problems. They will be responsible for analyzing possible solutions using standard procedures and building knowledge of the company, processes, and customers. The Construction Support Engineer understands critical business drivers and applies this knowledge to solve problems in straightforward situations by analyzing possible solutions using technical experience, judgment, and precedents.
+
+
+Key Tasks and Responsibilities:
+Perform FEED, Studies, and detailed design engineering, analysis, and calculations on more complex and demanding engineering tasks
+Apply knowledge and skills to complete varied assignments
+Prepare clear and accurate detailed design calculations and analyses including design reports and procedures
+Prioritize and organize own work to meet deadlines
+Focus on completing work within budgets
+Clearly communicate and explain information in straightforward engineering activities
+Gain familiarity with the project scope of work, specifications, schedule, and all inter-discipline requirements; including identifying concerns as early as practicable
+Recognize changes to scope and notify the Discipline Lead Engineer
+Interface with all disciplines to develop clash free designs
+Interface with other departments to obtain input for Discipline designs and drawings
+Document substantive communications (communications that result in significant decisions or assignment of actions) and forward copies to Discipline Lead Engineer and Discipline Manager
+Provide required bid inputs as directed
+Prepare sketches of detail design to guide Designers
+Assist procurement personnel in producing discipline equipment, materials, and services Procurement assistance includes preparing requisitions, evaluating technical quotations, preparing queries, compiling bid tabulations and recommendations, preparing purchase requisitions, and coordinating with Procurement to expedite vendor documents, as directed by Discipline Lead Engineer
+Review MTOs for requisitions
+Assist in updating weight report based on receipt of vendor information
+Check drawings
+Check engineering performed by others within the discipline
+Review vendor subcontractor submittals, checking for compliance with project specifications and providing comments as necessary
+Perform design verification through single-discipline checks and assist with inter-discipline checks (IDC)
+Keep the Lead Engineer apprised of all activities, progress, and concerns
+Check final subcontractor and vendor data manuals to ensure that all requested data has been received and approved
+Capture lessons learned and enter into MDR’s Lessons Learned system
+Develop an awareness of costs related to own work and of the discipline
+In FabCSE, perform/review designs, analyses, evaluations, calculations, and procedures such as:
+Erection sequences for jackets, topsides, and other structures
+Loadout procedures and guidance during the operations
+Construction lift analyses and procedures for activities such as floatover, stackings roll-ups, etc.
+Weighing procedures
+Design and detailing of miscellaneous fabrication yard items
+Crane arrangements and rigging arrangements
+Trailer arrangements/operations, including drawings and procedures
+Additional skills (Preferable, not mandatory) - Perform pipeline Installation Engineering designs, analyses, evaluations, calculations, and procedures for transporting and installing (including installation aids);
+Submarine pipelines
+Risers
+Spools
+PLETS and manifolds
+Cables
+Additional skills (preferable, not mandatory) - perform Structural Installation Engineering designs, analyses, evaluations, calculations, and procedures for loadout, transportation, and installation (including installation aids) of offshore structures, including barge upgrades/modifications
+Additional skills (Preferable, not mandatory) - Perform Naval Architecture engineering designs, analyses, evaluations, calculations, and procedures related to all aspects of marine operations covering loadout, transportation, and installation, including barge upgrades
+Reports to: Manager (Construction Support Engineer)
+Liaise With: All design/drafting disciplines, all Engineering disciplines, Fabrication group, and Document Control
+Supervises: Trainee Engineers
+
+Essential Qualifications and Education:
+Bachelor’s degree in Naval Architecture, Civil/Structural/Mechanical Engineering (Master’s degree preferred)
+3-8 years of experience in oil and gas with a major contractor or consultant predominantly performing detail design
+Familiar with the content and application of standards, codes, and guidelines as applicable Knowledge of many basic design techniques and analysis methods
+Preferably Registered Engineer in Training (ElT) or member of a professional engineering society
+#LI-DL1",,Full-time,Batam,https://id.indeed.com/rc/clk?jk=6b80d0f72a14dc4b&bb=CoBYKI5i5FaFGdqffiBWphESn_aW0W9A5SL0w1luhA0nGF-xBgzo6OfEcsKVnHaMTfjs99SDmA-U35bBiqPALm9zHNW_BjBitXnEAtxxurkIEe9qBTSCggeFgKhzBl3a&xkcb=SoAs67M38fCEQxzfWh0GbzkdCdPP&fccid=58d2ae3bd9faa0c5&vjs=3
+PT SOS Indonesia,Data Engineer,Active 2 days ago,"3+ years experience as a Data Engineer with a strong focus on AWS technologies
+Proficiency in AWS services such as Glue, Lambda, S3, Redshift
+Strong programming skill in Python, familiar with Scala is point plus
+Experience in ETL/ELT processes and data integration techniques
+Familiarity with SQL databases
+Knowledge of data governance , data quality and data security principles
+Experience with data orchestration and workflow management tools such as Airflow
+Excellent problem-solving and analytical abilities
+Excellent verbal and written English communication skills
+Able to work hybrid in Jakarta Office
+Jenis Pekerjaan: Penuh Waktu",https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f1cec6cf394963560fdcd9e312486c6,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=c16df609ffe6ad31&bb=CoBYKI5i5FaFGdqffiBWpjnyMRUsi27CMlOnqDx78bmWnRD_ih0ohT9vy_oqB0oBLfnxZJC5NtQ50L165KAGSG8mmCKh-hJune-NiQDDC77sB3Fh7eTghRZswZd6Dzty&xkcb=SoCx67M38fCEQxzfWh0FbzkdCdPP&fccid=e45d10a2d8cc711e&cmp=Pt.-Sos-Indonesia&ti=Data+Engineer&vjs=3
+Mott MacDonald,Construction Management Engineer,Posted 30+ days ago,"Construction Management Engineer
+Country: Indonesia
+Position Location: Belitang, Ogan Komering Ulu Timur, South Sumatra,
+Contract Type: Contract
+Work Pattern: Full Time
+Sector: International Development
+Discipline: International development
+Job Ref: 3669
+Recruiter Contact: Shailesh Chougule
+Job Description:
+To carry out overall management and coordination for the construction management and supervision team of the consultant in cooperation with Team Leader;
+To review the existing reports, design documents and design drawings for overall irrigation facilities to be newly constructed or improved;
+To check the control points and bench marks used for previous surveying and, if needed to evaluate the accuracy of existing topographic maps for design adjustment;
+To make sure to review and revise existing design documents, calculation and drawings and propose to adjust the design when necessary;
+To execute the construction supervision of civil works of main system of Lempuing Irrigation Scheme including the following items:
+To assist the Employer/ the Engineer to confirm and mutually agree on the work responsibility, method of supervision, document/letter form, procedure for approval, drawing submission and approval flow, and so on;
+To attend the regular meeting, to check and confirm the work method, work performance, work progress, status of equipment and materials, work schedule and safety control as well as problems to be solved;
+To check the work plan, construction method, construction time schedule, construction equipment schedule, manning schedule and safety control plan proposed by the contractor;
+To check the quality control method for both construction site and laboratory (equipment and method) proposed by the contractor;
+To check and finalize the controlled point and bench marks for construction set by the contractor;
+To check the setting out lines and levels prepared by the contractor;
+To check the construction drawings, construction/ shop drawings, design, documents and calculations prepared and submitted by the contractor;
+To check the construction materials proposed by the contractor including proposed borrow areas;
+To supervise the laboratory testing and data preparation carried out by the contractor;
+To inspect the quarry sites, borrow areas, stock pile areas and factory supplying and/ or fabricating the materials for construction;
+To supervise the field test and the factory test and to determine the appropriate equipment and methods for quality control with project staff of government
+To inspect the construction method, equipment use, work performance and quality of site works comparing with the technical specification throughout the construction period with project staff of government;
+To survey and measure the work output performed by the contractor from a viewpoint of quality and progress;
+To control the total work quantities and cost in the Bill of Quantities (BoQ) contracted through the Mutual Check;
+To inspect the safety control method and facilities applied by the contractor;
+To analyze and settle the contractor's claim in coordination with the Employer/ the Engineer;
+To check the as-built drawings prepared by the contractor;
+To keep proper records necessary for preparation of the completion report;
+To conduct final inspection of all completed works executed by the contractor with project staff of government and recommend to issue the completion certificate; and
+To check and certify the payment to contractors regularly;
+To prepare the completion report for respective parts including keeping proper records; and
+To prepare required technical report in the TOR.
+Candidate Specification:
+Education: University graduate in irrigation or civil engineering
+Significant years working experience in planning, design, and construction supervision of irrigation, dam or other water resources development projects.
+It would be preferable if the candidate also has the following specifications:
+Indonesian Project: At least 1 year work experience of professional A engineer in Indonesian irrigation project.
+Indonesian Language: Technical meeting level. (DGWR Irrigasi will have job interview).
+
+Equality, diversity and inclusion
+We put equality, diversity and inclusion at the heart of our business, seeking to promote fair employment procedures and practices to ensure equal opportunities for all. We encourage individual expression in our workplace and are committed to creating an inclusive environment where everyone feels they have the opportunity to contribute.
+Agile working
+At Mott MacDonald, we believe it makes business sense for you and your manager to choose how you can work most effectively to meet your client, team and personal commitments. We embrace agility, flexibility and trust.",,"Full-time,Contract",Ogan Komering Ulu Timur,https://id.indeed.com/rc/clk?jk=30cf715e072fdc5e&bb=kck2VUFBJYXBwZUN1ltcgtRnDSkkrJ0bQdijm8ogK0bwpsAzKcYBX_UqQrJFThC0JeFPQc7jbHqxzlGepR34UlbBMsmUtXtNmEzVBrTDyedi6aUlHMowtA%3D%3D&xkcb=SoCP67M38fCZ9gw82R0LbzkdCdPP&fccid=edb4bf50a19b70a9&vjs=3
+Durapower Group,Data Engineer/Scientist,Posted 30+ days ago,"Responsibilities:
+Design, build, and maintain robust data pipelines and systems to efficiently collect, store, and analyze diverse battery-related data.
+Collaborate with cross-functional teams to integrate data from various sources, ensuring a comprehensive and cohesive representation of battery performance metrics.
+Develop and implement predictive models to extract meaningful insights, contributing to strategic decision-making in the battery technology sector.
+Work closely with data scientists and analysts to identify data patterns, trends, and anomalies, translating raw information into actionable insights.
+Stay updated on industry trends and advancements, providing recommendations to shape data initiatives that keep the organization at the forefront of innovation in battery technology.
+Requirements:
+University or Master’s degree in Computer Science, Data Science, or a related field.
+Demonstrable experience as a Date Scientist, focusing on designing and implementing data architectures and pipelines, particularly in the context of battery-related data.
+Proficiency in data modeling and design, including SQL scripting and database administration.
+Strong proficiency in relevant programming languages (e.g., Python, Java), data modeling, and database management systems. Experience with tools such as Apache Spark and familiarity with cloud platforms (e.g., AWS) is a plus.
+Experienced in developing and implementing predictive models to extract insights from complex datasets, contributing to informed decision-making.
+Understanding of battery technology, energy storage systems, and a keen interest in staying abreast of industry trends and advancements.
+Natural curiosity, creative and critical thinking with a learner mindset.
+Strong communication and collaboration skills to work effectively across diverse teams within Durapower.",,,Central Java,https://id.indeed.com/rc/clk?jk=6a0e19d2e80b1d04&bb=kck2VUFBJYXBwZUN1ltcgsyrhIW87v8MvYKHTnPNdAzyMdXby0KhpIbDdxqY3sac2Fj2lazSjzGotpIxez6miYFet4CpboVRnx-WM2g9bSSvHBqYkxifWRgF3u7KLn1e&xkcb=SoA767M38fCZ9gw82R0KbzkdCdPP&fccid=f71edc770f460a02&vjs=3
+MyRepublic,Data Engineer,Active 3 days ago,"Becoming a leading multimedia business in fiber broadband and interactive TV cable, MyRepublic a member of Sinar Mas, subsidiaries of PT Dian Swastatika Sentosa Tbk, currently are looking for potential candidate to be employed as Data Engineer for our new branches with the following details:
+Requirements:
+- Min. Bachelor's degree in Computer Engineer, Computer Science, Information Technology, Mathematics, Statistics and/or related fields.
+- 3+ years experience in database design, data integration, data pipeline development, big data.
+- Experience in business intelligence and data visualization tools e.g. Grafana, Google Looker Studio
+- Ready to learn and explore new thing of business areas to support the dynamic business requirements
+- Knowledge of Linux, Shell Script, Phyton, MySQL, PosgreSQL is an advantage.
+Job Description:
+- Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics B
+- Build Automate Tasks, Analytical tools and programs.
+- Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+If you are ready to take a new career path, please apply now. Lets create your own journey with us!
+All confidentiality of submitted applicant data is the company's priority. Only shortlisted candidates will be notified.
+Jenis Pekerjaan: Penuh Waktu, Kontrak",,"Full-time,Contract",Jakarta,https://id.indeed.com/rc/clk?jk=472595a62f5f1765&bb=kck2VUFBJYXBwZUN1ltcgmonF9U0y9R433baqS7RE6q6ykyzaqoazZFuac_UwUr1bmVAO1-1SGTEB7Cy_wKbQthHCGqoY9JJyrVkzgHXBaB1LDYTGf0vJV9-Y4Q_VMG8&xkcb=SoCm67M38fCZ9gw82R0JbzkdCdPP&fccid=d175b4c8f0add04b&cmp=MyRepublic&ti=Data+Engineer&vjs=3
+Bibit.id,Data Engineer,Posted 30+ days ago,"Company Description
+
+Bibit.id is a platform to help you to start your investment in mutual fund in a very simple way.
+
+Job Description
+
+We are looking for a Data Engineer to develop, construct, test and maintain architectures, such as databases and large-scale processing systems. The data engineers will need to recommend and sometimes implement ways to improve data reliability, efficiency, and quality. This position will need to ensure that the architecture that is in place supports the requirements of the data scientists and the stakeholders, the business.
+Responsibilities:
+Construct and maintain efficient data pipelines + warehouses for data collection
+Develop necessary scripts/mini-apps to run data analysis
+Conduct tests on large scale data platforms.
+Provide recommendations to improve data quality.
+Ensure and support the data architecture utilized by data scientists and analysts.
+Development of data processes for data modeling, mining, and data production.
+
+Qualifications
+
+Requirements:
+Working experience of at least 2 years with exposure to Big Data, Real-time data pipelines, ETL processes and supporting tools/framework such as Airflow etc
+Experienced in Cloud Service environment, especially GCP + BigQuery. Skill in other Cloud Services is a big plus.
+Experienced third party behaviour analytics tools such as Firebase / Moengage / CleverTap etc
+Experienced in working with RDBMS & Non-RDBMS datastores.
+In conjunction with the requirement above, excellent skills in writing efficient querying language especially SQL
+Experienced in utilizing popular Visualization Tools such as Tableau / Holistics / Metabase etc
+Skilled in Python programming
+Skilled in Pig Latin is a plus
+Understand how to analyze & utilize data in order to provide value/insights for company decision making.
+Good Teamwork & Communication skill",,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=af74fbb854e2f3a8&bb=kck2VUFBJYXBwZUN1ltcgkVIHR7J4uJWHRhhZSjSUD4Ikn18AWfiBhmqScWEr-JV2VuskhTdgzNMY86Z17f_oqv-P2NaYdp1Padk976hzFIh283L7cNcgRwSHsze6TPx&xkcb=SoAS67M38fCZ9gw82R0IbzkdCdPP&fccid=6c6871a58ae0199c&vjs=3
+DKatalis,Senior Data Engineer,Posted 6 days ago,"About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+About the Role
+We are seeking a hands-on Senior Data Engineer to help us build out and manage our data infrastructure, which will need to operate reliably at scale using a high degree of automation in setup and maintenance. The role will involve setting up and managing the data infrastructure plus building new systems where required. Responsibilities will extend to building and optimizing key ETL pipelines on both batch and streaming data. The ability to work with the teams from product, engineering, BI/analytics and data science is essential. Ownership needs to be taken of data model design and data quality. The individual will also play active roles in ensuring data governance tooling is implemented and policies thereby adhered to.
+The individual will also need to be able to work with technical leadership to make well informed architectural choices when required. A high degree of empathy is required for the needs of the downstream consumers of the data artefacts produced by the data engineering team, i.e. the software engineers, data scientists, business intelligence analysts, etc and the individual needs to be able to produce transparent and easily navigable data pipelines. Value should be assigned to consistently producing high quality metadata to support discoverability and consistency of calculation and interpretation.
+Candidates should have a wide set of experience across the following platforms, systems, languages and capabilities:
+Ideally GCP, but strong experience in another platform such as AWS or Azure will suffice
+Event streaming platforms such as Kafka
+Stream analytics frameworks such as Spark, GCP Dataflow, etc
+Workflow scheduler such as Apache Airflow
+Cloud data warehouses such as c, Redshift or Snowflake
+Fluency in using Kubernetes, Python.
+Comfortable writing detailed design documents",,,Jakarta,https://id.indeed.com/rc/clk?jk=0cdf22687fad842d&bb=kck2VUFBJYXBwZUN1ltcglckZUOCjIbY_9azigzI_2Tj18DKtMtt87V9bJcZkKkPXr680XRr7PNIdciorlbgDO5mHplMSqPkAGU4uiEBbpI9DXC-mTW-r0B8HEaLJGmt&xkcb=SoCc67M38fCZ9gw82R0PbzkdCdPP&fccid=4d805874d57f468e&vjs=3
+Alcon,Packaging Engineer,Posted 30+ days ago,"At Alcon, we are driven by the meaningful work we do to help people see brilliantly. We innovate boldly, champion progress, and act with speed as the global leader in eye care. Here, you’ll be recognized for your commitment and contributions and see your career like never before. Together, we go above and beyond to make an impact in the lives of our patients and customers. We foster an inclusive culture and are looking for diverse, talented people to join Alcon.
+As a Packaging Engineer, you will be responsible for implementation of FFS packaging process with supporting all engineering and documentations that required for the project implementation.
+In this role, a typical day will include:
+Manage and develop/ execute engineering study and or validation (IQ,OQ, and PQ) protocol and report, which includes data collection and analysis.
+Carry out change requests and evaluate effects of changes to validated processes of packaging and labelling system and or packaging lines.
+Work with stakeholder to carry out commercial setup (SAP) wo be integrated with the FFS packaging system.
+Support artwork and labelling setup for the new packaging system (FFS)
+Develop Functional documents as part of FFS packaging system implementation
+Working in accordance with the HSE Manual and documented procedures and reporting HSE issues to the respective area owners.
+WHAT YOU’LL BRING TO ALCON:
+Min Degree in science or engineering
+Good understanding of packaging technology used in manufacturing
+2 years of relevant experience in primary packaging engineer (fill form seal)/ sealing technology
+Preferably those from medical/ pharmaceutical/ food manufacturing/ FMCG consumer goods manufacturing related industries
+HOW YOU CAN THRIVE AT ALCON:
+Good team player
+Part of growing company
+Opportunity be involved and exposure to projects from global site
+Alcon Careers
+See your impact at alcon.com/careers
+
+ATTENTION: Current Alcon Employee/Contingent Worker
+If you are currently an active employee/contingent worker at Alcon, please click the appropriate link below to apply on the Internal Career site.
+Find Jobs for Employees
+Find Jobs for Contingent Worker",,Full-time,Batam,https://id.indeed.com/rc/clk?jk=18ba9fbc7ac90c97&bb=kck2VUFBJYXBwZUN1ltcgrMjhVen0L7z9ZFRN2li_eikEnAe4YLP0TZMTrjlI1yz1aKvrAM6Mbw0VDVaOei6qAzUXxv707tWp7fMbrn3xmRmf2KlagDvew%3D%3D&xkcb=SoAo67M38fCZ9gw82R0ObzkdCdPP&fccid=a59cf55b5265bc75&vjs=3
+Prysmian Group,Quality Line Inspector,Posted 12 days ago,"Job Description:
+1. Perform inspection during rewinding process entire length of cable
+2. Conduct regular inspections of cables, conductors, wires and related products during various stages of production.
+3. To verify records of inspection results and quality control activities in process (SQC, TI, check list)
+4. To do testing and inspection of the material label and products in process following weekly schedule defined by quality engineer.
+5. To verify calibration validity of equipment.
+6. Document and report any issues or non-conformities found during inspections.
+7. Collaborate with the production team to address and resolve quality issues.
+8. Ensure compliance with industry standards, safety regulations, and company policies.
+9. Participate in internal and external audits as required.
+10. Suggest and implement improvements to the inspection process to enhance efficiency and effectiveness.
+11. Stay updated with the latest industry trends and quality control techniques.
+12. To do task that assigned by superior.
+13. Supporting the HSE team :
+Comply with Government Regulations & Company HSE Policies, Procedure & Rules
+Ensure that the requirements of the HSEMS are established, implemented and maintained in accordance with the standard ISO 45001:2018 & ISO 14001:2015
+Ensure all related activity will refer to HIRADC
+Maintain HSE equipment in the Company
+Always remind colleagues to prioritize work safety and health and prevent environmental damage.
+Job Qualifications:
+1. Diploma degree or equivalent in engineering field. Technical training in quality control or a related field is a plus
+2. Minimum 2 years’ experience in a manufacturing or quality control role, preferably in the cable industry.
+3. Minimum passive English skills (ability to understand written and spoken English)
+4. Strong attention to detail and analytical skills.
+5. Proficiency in using inspection and testing equipment. (eg. Caliper, Micrometer, Diameter Tape, etc)
+6. Good communication and teamwork skills.
+7. Basic computer skills for record-keeping and reporting. (Microsoft Office, SAP, etc)
+8. Physical Stamina: Ability to stand for long periods and perform repetitive tasks.
+9. Color Vision: Must not be colorblind.
+10. Problem-Solving: Ability to identify and resolve quality issues effectively.
+11. Reliability: Consistent attendance and punctuality.
+12. Adaptability: Willingness to work in a fast-paced and dynamic environment.
+Prysmian , as an Equal Opportunity Employer, aims to attract and recruit individuals with diverse backgrounds, skills, and abilities. We strongly believe that diversity brings significant value at all levels of the organization, increasing the possibility of capturing market opportunities and maximizing value for our customers and stakeholders. With Diversity, Equity, and Inclusion (DE&I) as part of our Social Ambition 2030 and a strategic pillar of our Company culture, Prysmian is committed to the development of an organization that prioritizes talent, where people feel respected, included, and free to fully express their potential just as they are.
+
+All Managers and HRs in Prysmian are responsible for ensuring DE&I policies are respected during the recruiting process, as well as recognizing and mitigating unconscious biases that must not influence our selection processes. All persons will be considered for employment without regard to their race, ethnicity, religion, nationality, origin, citizenship status, socio-economic status, age, sex, gender identity or expression, sexual orientation, marital status, disability, military service or veteran status, pregnancy, parental leave, medical conditions, or any other characteristic protected by applicable federal, state or local laws. Prysmian will endeavor to make a reasonable accommodation for any disclosed physical or neurological condition or disability of a qualified applicant unless the accommodation would impose an undue hardship on the operation of our business.
+Visit our
+DE&I Page
+to learn more about Prysmian's commitments.
+Your application data will be treated according to our Data Protection Policy. If you believe you require assistance to complete this form or to participate in an interview, please let us know.",,Full-time,Karawang,https://id.indeed.com/rc/clk?jk=b0b275b41e895be4&bb=kck2VUFBJYXBwZUN1ltcgtRnDSkkrJ0b0BnjX7Tlmg_MRH_c_uK56dsVWuQxfI62jskNipscQK1z3saiMiRT3-TZ4BxTGp1KpdYOXmOGYVZaQcy3XPDrntjVZU29cqwR&xkcb=SoC167M38fCZ9gw82R0NbzkdCdPP&fccid=cbb4fea28907cecf&vjs=3
+Graha Karya,Data Engineer,Posted 30+ days ago,"Qualifications: • Minimum S1 Computer Science or related major • Minimum experience 1-2 years • Coding, Data Collection and Ingestion, Data cleansing, Big data framework and tools, Data modelling, Data integration, Dev-Sec-Ops, Data quality management, Data profiling, API design and development, Metadata management, Data architecture, Data security, Containerization, Hybrid hosting, T-SQL Job Descriptions: • Translating data and business requirements into data engineering processess that match business requirement • Provide consultation to Data Analyst / Business Analysts related to data engineering (ingestion, export, landing, batch, etc) • Together with the data modeler teams to design, create, manager the Data Warehouse and Data mart.",https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f5ec12ade818dd9f77ab807992e1b98a,,Jakarta,https://id.indeed.com/rc/clk?jk=8f6787fb71e22547&bb=kck2VUFBJYXBwZUN1ltcgot3HRBvjk1SrKU5wPBd-vmfP9PhdR_Dc6xGfJXE-EJgq79WnKqHMPcnJxr2xDtxI22yaEG_NZgxT0e4QFFawLzQN24CvKL8Ep5108HQ1Dbw&xkcb=SoAB67M38fCZ9gw82R0MbzkdCdPP&fccid=b19f0e132b08df14&vjs=3
+Lintas Media Danawa,Data & Application Operation Engineer,Just posted,"Job Requirements:
+- Pendidikan minimal setingkat S1 Teknik / Komputer
+- Pengalaman pekerjaan bidang IT selama minimal 7 (tujuh) tahun
+- Pengalaman pekerjaan terkait backup data atau pengembangan aplikasi selama minimal 3 (tiga) tahun
+- Memiliki sertifikasi terkait backup data/ database/ aplikasi
+- Pemahaman Teknologi Container dan Packaging (Data & Application Operation Engineer)
+Job Description:
+1. Mengoperasikan data dan aplikasi operasional pusat data nasional.
+2. Menganalisa kebutuhan data dan aplikasi operasional pusat data nasional
+3. Mengelola data dan melakukan backup data operasional pusat data nasional
+4. Melakukan hardening terhadap template aplikasi yang akan dijadikan sebagai katalog layanan.
+5. Melakukan pelaporan ke pada level 2 atau ke prinsipal untuk masalah yg dihadapi atau masalah di tenant terkait product yang digunakan.
+6. Melakukan dan mendampingi konfigurasi dan instalasi sistem
+7. Mengembangkan tools yang diperlukan seperti template image Opensource dengan Web Interface Dashboard untuk APM, load balancer, DNS server, Private cloud Storage, mail server di tahun 2024 (dan tools open source lainnya sesuai penugasan Kementerian Komunikasi dan Informatika).
+Job Type: Contract
+Contract length: 3 months
+Application Question(s):
+Apakah Anda sudah submit atau upload CV dan Ijazah terupdate Anda? (Mandatory)",,Contract,Jakarta,https://id.indeed.com/rc/clk?jk=a7040ec52e4bb000&bb=kck2VUFBJYXBwZUN1ltcgunzZZKn23RZlujsNyoeebMvwLCsMvaPr2Wp6mpEOFbLZR08btHgOKo9PrhRjam4FfpIqe6T9hbohGQiDYzW2U2aonJrvexwSELcPGWaK3CD&xkcb=SoDo67M38fCZ9gw82R0DbzkdCdPP&fccid=e0f54e7efb107f2c&cmp=Lintas-Media-Danawa&ti=Application+Engineer&vjs=3
+PT Ikonsultan Inovatama,Data Engineer,Active 3 days ago,"Job description:
+Design and implement Big Data architecture, tools, and frameworks.
+Develop and maintain scalable data pipelines (ETL/ELT).
+Develop and maintain data processing jobs and automation workflows. Define and maintain data quality standards.
+Qualification:
+2-5 years of experience with Big Data platforms (Hadoop, Spark, etc.) and cloud environments (BigQuery, Databricks).
+Proficiency in scripting languages (Bash, Python) and SQL.
+Solid understanding of data warehousing principles and data modeling.
+Apply Now:
+https://bit.ly/33DataEngineer
+Job Type: Contract
+Application Question(s):
+Availability?
+Experience:
+Data Engineer: 2 years (Preferred)",,Contract,Jakarta,https://id.indeed.com/rc/clk?jk=b25eeda328e73d10&bb=kck2VUFBJYXBwZUN1ltcgszEBywTYq7NWsCbp-g85SFoFelWvQ2bhNd9O5mWqs-_nxSg3iXQwGHomUHQp94o7pRCT9EATNBCqzQLavzV59JnOXQlygQuRm2RnKwsIhZ9&xkcb=SoBc67M38fCZ9gw82R0CbzkdCdPP&fccid=8026a82972c177a3&cmp=PT.-Ikonsultan-Inovatama&ti=Data+Engineer&vjs=3
+Solve Education,Data Engineer and Analyst,Posted 30+ days ago,"Job Category: Product
+Job Type: Full Time
+Job Location: Indonesia
+Job Status: Priority Hiring
+Overview
+Solve Education! is a non-profit organization committed to helping children and youth around the globe receive quality, effective education. We are looking to hire a skilled data engineer and analyst who can create an amazing experience for our customers as they build and maintain solutions, find trends in data sets, and develop algorithms to help make raw data more useful to the enterprise.
+Requirements:
+Able to design and deploy large-scale data platforms and data warehouses.
+Able to design and deploy ETL and data ingest tools and strategies in a cloud platform
+Experience with relational systems, object stores, and Google Cloud’s Big Query
+Strong SQL and/or NoSQL database knowledge
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Able to employ analytical thinking to investigate issues and develop solutions
+Great understanding of quantitative and analytics research methods and ability to design, execute, and analyze research independently from start to finish
+Good verbal and written communication skills (Required language: English)
+Experience as a Data Engineer, Data Warehouse, Data Analyst, Data Scientist, Business Intelligence, Data transformation, and/or Data Modelling is a plus.
+Main Responsibility:
+Build and maintain database system and model for the dashboard and report visualization.
+Collects, integrates, aggregates, transforms, and wrangles data at scale to enable data science activities, self-service analytics, and production analytics such as machine learning.
+Maintaining our data warehouse and storage system to ensure it’s reliable and quality.
+Build analytics tools that utilize the data pipeline to provide actionable insight into customer acquisition, operational efficiency, and other key business performance metrics.
+Proactively seek to find trends and opportunities for improvement in the product/other ongoing initiatives based on data.
+Design experiments to verify implementation results in the application and provide recommendations.
+Document research plans and maintain accurate and current record-keeping of experimental result
+Note:
+Please send your CV and other relevant documents to career@solveeducation.org.",,Full-time,Indonesia,https://id.indeed.com/rc/clk?jk=fdc47135e0259f35&bb=kck2VUFBJYXBwZUN1ltcgsVYcGnzUr94IbY34lihK1eHqP09Vq6SBByIyWnR9IIsQrqT3OFvPU-XvybtPMcLyA4h4Tx3aYNeuOZLOiyDquFkqsjGAq4hT-ntDDrDTzTH&xkcb=SoDB67M38fCZ9gw82R0BbzkdCdPP&fccid=36e456d895965528&vjs=3
+Accenture,Data Engineer,Posted 30+ days ago,"About Accenture
+Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all of these services. We combine unmatched experience and specialized capabilities across more than 40 industries – powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. With 505,000 people serving clients in more than 120 countries, Accenture brings continuous innovation to help clients improve their performance and create lasting value across their enterprises. Visit us at www.accenture.com
+
+Role Summary:
+
+There will never be a typical day at Accenture, but that’s why people love the dynamism. The opportunities and initiatives to make a difference, doing good for the public, are unlimited in the ever-changing digital landscape. Here are just a few of your day-to-day responsibilities:
+Understand our customers' core business objectives and build end-to-end data centric solutions to address them
+Collaborate with technical business analyst, to understand business requirements, data, and optimize data pipeline performance.
+Build solutions in big data and data management tools meeting projects’ requirements
+Construct code with good coding standard and practices to ensure high quality and minimum risks
+Closely working with project manager and technical leads to provide regular status reporting and support them to identify blockers for quick resolution.
+#LI-GM
+
+Qualifications
+Basic Skills and Qualifications:
+
+Experience with Data Engineering or Big Data Technologies, or Data Transformation, and data modelling
+Experience in architecting and building scalable data platforms.
+Experience with Informatica or other related data Integration tools
+Experience with Cloud Technologies (Data Lake, Azure, Google, AWS etc.) or experience with open source technologies (Spark, Kafka, Presto, Hive, Cassandra etc.)
+Experience with SQL and/or NOSQL databases
+Preferred Skills and Qualifications:
+
+Production experience in building real-time analytics applications
+Experience in both batch and stream processing technologies
+Experience with 2 of 3 - Java, Scala, and Python programming languages
+Machine learning experience with Spark or similar
+Certified Data Engineers or Solution Architect in 1 or more Cloud Technologies (AWS, GCP, Azure)
+Ability to manage numerous requests concurrently and be able to prioritize and deliver
+Good communication skills
+Dynamic team player
+Bachelor’s or Master’s Degree
+
+You will also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career.
+
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.
+Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.",,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=55f34efec44bdcf3&bb=kck2VUFBJYXBwZUN1ltcgpS-E62_FC6K01dzLijpK9r8of3KSddyhc29ZoV021Ls59ujgr8HfRCOO3FPlNVLPbQFHcAXOjn-ZJBFPKDGGdsA3cM-OAbt7g%3D%3D&xkcb=SoB167M38fCZ9gw82R0AbzkdCdPP&fccid=a4e4e2eaf26690c9&vjs=3
+Mekari (PT. Mid Solusi Nusantara),AI Engineer,Posted 5 days ago,"Main Responsibilities:
+We are seeking a highly skilled and motivated AI Engineer to join our dynamic team. As an AI Engineer, you will play a crucial role in building cutting-edge AI features from the ground up and conducting research and development in the field of Machine Learning (ML) and Artificial Intelligence (AI) frameworks. This is an exciting opportunity for individuals passionate about pushing the boundaries of AI technology and contributing to innovative projects.
+Key Responsibilities:
+Design, develop, and implement AI solutions, including but not limited to natural language processing, computer vision, and other machine learning algorithms.
+Collaborate with cross-functional teams to understand business requirements and translate them into AI-driven applications.
+Conduct research and stay updated on the latest advancements in ML and AI frameworks to propose and implement innovative solutions.
+Work on the full AI development lifecycle, from ideation and proof of concept to deployment and maintenance.
+Optimize and enhance existing AI models for improved performance and efficiency.
+Collaborate with data scientists and software engineers to integrate AI capabilities into existing systems.
+Stay abreast of industry trends and best practices to continuously improve the company's AI capabilities.
+Requirements:
+Experience in building usable machine learning or AI products for end users.
+Bachelor's or Master’s degree in Computer Science, Artificial Intelligence, or a related field.
+Proven experience in developing and implementing AI solutions, with a focus on building features from the ground up.
+Solid understanding of machine learning algorithms, neural networks, and deep learning techniques.
+Experience with popular LLM frameworks and libraries such as Langchain, LlamaIndex, etc.
+Familiarity with natural language processing, LLMs such as openAI, LLAMA2, Claude, etc.
+Demonstrated ability to work on cross-functional teams and communicate effectively.
+Strong problem-solving skills and a proactive mindset towards learning and adopting new technologies.
+Working Arrangement: Hybrid.
+Office location: Sudirman, Jakarta, Indonesia.
+Our team will review your application and will be in touch if your application is shortlisted to the next stage. If you do not hear from us in 30 days, we will keep your resume on file in case a relevant opportunity opens up.
+Don't forget to check our Recruitment FAQ at bit.ly/RecruitmentFAQ-Mekari [ENG] or bit.ly/RekrutmenMekari-FAQ [INA] to find the answers to commonly asked questions regarding our recruitment process.
+
+We wish you the best. Hope to see you around soon!",,,Jakarta,https://id.indeed.com/rc/clk?jk=8ebdd0362965c7cd&bb=kck2VUFBJYXBwZUN1ltcgsT8MzKmfK91YB0HinT76_cLMfSNGdZ-w_kx04aWt5nrfycHCgX2kes8MDuPow2uHjAZjvudopmBOwmcERwtx_6aVnB_BKFQHx0JGZIvmepa&xkcb=SoD767M38fCZ9gw82R0HbzkdCdPP&fccid=1ab920afc43e1f08&vjs=3
+Manulife,Production Support,Just posted,"The opportunity
+Production Support Team is responsible for maintaining and supporting the system to ensure smooth business operations.
+
+Responsibilities
+Analyzes, contributes to and improves ongoing business processes and workflows; supports incident resolution and production
+Assists with resolution of issues surfaced by support analysts
+Resolves technical issues and record transactions via ticketing system
+Promotes persistent issues to Engineers and Architects where necessary
+Support applications and systems by meeting or exceeding standards and service levels while minimizing operational risk
+Performs some or all of the following tasks: data management, data loads, runs scans, validation scripts, schedule production releases
+
+How will you create impact?
+
+Production Support Team reporting to Head of Production and CTO.
+
+What motivates you?
+You obsess about customers, listen, engage and act for their benefit.
+You think big, with curiosity to discover ways to use your agile approach and enable business outcomes.
+You thrive in teams and enjoy getting things done together.
+You take ownership and build solutions, focusing on what matters.
+You do what is right, work with integrity and speak up.
+You share your humanity, helping us build a diverse and inclusive work environment for everyone.
+
+What we are looking for
+Good Communication
+Understand Web and API
+Understand Java Spring Boot
+Understand Oracle, SQL Server, and Mongo DB
+Understand New Relic
+Understand Logging System
+
+What can we offer you?
+A competitive salary and benefits packages.
+A growth trajectory that extends upward and outward, encouraging you to follow your passions and learn new skills.
+A focus on growing your career path with us.
+Flexible work policies and strong work-life balance.
+Professional development and leadership opportunities.
+
+Our commitment to you
+Values-first culture
+We lead with our Values every day and bring them to life together.
+Boundless opportunity
+We create opportunities to learn and grow at every stage of your career.
+Continuous innovation
+We invite you to help redefine the future of financial services.
+Delivering the promise of Diversity, Equity and Inclusion
+We foster an inclusive workplace where everyone thrives.
+Championing Corporate Citizenship
+We build a business that benefits all stakeholders and has a positive social and environmental impact.
+About Manulife and John Hancock
+Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html .
+Manulife is an Equal Opportunity Employer
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com .
+Working Arrangement
+Hybrid",,Full-time,Jakarta,https://id.indeed.com/rc/clk?jk=29893266671c49e3&bb=kck2VUFBJYXBwZUN1ltcgtRnDSkkrJ0bFKmbJJ3_UU7-4BqboUpHloToWfSPTN3CqNb1-ppEPOiTdtNvYLc6jdUy-9w8YjtOwQUiVHT3A9GEOESwVLLM3uGTM96fg5oo&xkcb=SoBP67M38fCZ9gw82R0GbzkdCdPP&fccid=1747adf6142beb48&vjs=3
+PT. Avows Technologies,Data Engineer (Hybrid),Active 14 days ago,"Requirement:
+Min. Bachelor's degree in computer science, software or computer engineering, applied math, physics, statistics, or a related field.
+Highly proficient in SQL query
+Proficient in ETL Tools (prefer Talend & IBM Datastage)
+Excellent problem solving and troubleshooting skill
+Have a good communication skill and ability to work with cross functional team.
+Understanding in BI Tools Tableau is a plus
+Understanding in Greenplum Database is a plus
+Collect and combine data from various sources, both from company databases and analytics apps, using various tools
+Create and maintain optimal data pipeline architecture
+Work with stakeholders including the Executive, Product, Business analyst, and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Collect and combine data from various sources, both from company databases and analytics apps, using various tools
+Create and maintain optimal data pipeline architecture
+Work with stakeholders including the Executive, Product, Business analyst, and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Job Types: Full-time, Contract
+Contract length: 6 months
+Pay: Rp8,000,000.00 - Rp10,000,000.00 per month
+Ability to commute/relocate:
+Jakarta: Reliably commute or willing to relocate with an employer-provided relocation package (Required)",,"Full-time,Contract",Jakarta,https://id.indeed.com/rc/clk?jk=1113d027eed1d4c8&bb=kck2VUFBJYXBwZUN1ltcgmF0cRSm1KX16MllC56UBYSfel5jp3mOIndijKQEU163lJTBkzij6K1WiSck95VkG0D_QMzxsdqEyTZeom-CHyIbdoiaox5QAL9kK63sevpK&xkcb=SoDS67M38fCZ9gw82R0FbzkdCdPP&fccid=67fe4d0be484f4f7&cmp=PT.-Avows-Technologies&ti=Data+Engineer&vjs=3
